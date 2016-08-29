@@ -95,7 +95,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   font-size: 1.5em;
 }
-
+#form {
+  color: black;
+}
 /* portfolio styling */
 figure {
   position: relative;
@@ -253,8 +255,8 @@ figure.effect-portfolio:hover p {
   color: #fff;
 }
 
-#facebook, #twitter, #github, #linkedin, #ffc {
-  font-size: 1.3em;
+#codepen, #twitter, #github, #linkedin, #ffc {
+  font-size: 4em;
   padding: 10px;
 }
 
